@@ -34,3 +34,35 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Snapshots
+
+### Home Page in Light Mode
+
+![Main Image Alt Text](snapshots/home.jpeg) 
+
+### Home Page in Dark Mode
+
+![Main Image Alt Text](snapshots/home_dark.jpeg)
+
+### Dashboard for Visualization of Sales and Purchase History
+
+![Main Image Alt Text](snapshots/dashboard.jpeg)
+
+### Details required for Purchase Entry
+
+![Main Image Alt Text](snapshots/purchase_entry.jpeg)
+
+### Details being stored in Firestore Database
+
+![Main Image Alt Text](snapshots/database.jpeg)
+
+### Purchase History along with Relevant Details
+
+![Main Image Alt Text](snapshots/purchase_list.jpeg)
+
+### Details required for Sale Entry
+
+![Main Image Alt Text](snapshots/sale_entry.jpeg)
+
+### Sale History along with Relevant Details
+
+![Main Image Alt Text](snapshots/sale_list.jpeg)
