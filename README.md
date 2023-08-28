@@ -15,6 +15,10 @@ Additionally, balancing several concurrent tasks demanded adept time management.
 
 ## Getting started
 
+### Access Hosted Website 
+
+Link of hosted web application - https://dime-dash-omega.vercel.app/ 
+
 ### Access via Local Host
 
 To run this project in your local system:
