@@ -25,7 +25,7 @@ git clone https://github.com/yash-g101/DimeDash.git
 ```
 3. navigate to the project directory and run the following commands
   ```
-  cd pics
+  cd DimeDash
   npm install
   npm start
   ```
