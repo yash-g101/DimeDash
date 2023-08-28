@@ -1,0 +1,117 @@
+.navbarcontainer {
+  font-family: "Montserrat", sans-serif;
+  color: #0f0f0f;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  -webkit-user-select: none;
+  /* Safari */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* IE10+/Edge */
+  user-select: none;
+  /* Standard syntax */
+}
+
+.navbar_center {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2.625rem;
+}
+
+.navbarlink {
+  padding: 0rem 3rem;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 600;
+}
+
+.navbar_right {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1.44rem;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: extrabold;
+  font-style: normal;
+  font-weight: 800;
+  -webkit-user-select: none;
+  /* Safari */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* IE10+/Edge */
+  user-select: none;
+  /* Standard syntax */
+}
+
+.button_tryfree {
+  border-radius: 1.5625rem;
+  border: 2px solid #0f0f0f;
+  background: #fcfcfc;
+  box-shadow: 0px 2px 12px 0px rgba(15, 15, 15, 0.4);
+  display: inline-flex;
+  min-height: 3.125rem;
+  padding: 0.625rem 3.75rem;
+  justify-content: center;
+  align-items: center;
+  gap: 0.625rem;
+  color: #0f0f0f;
+  text-align: center;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.button_tryout_for_form {
+  display: inline-flex;
+  min-height: 3.125rem;
+  margin: 10px auto;
+  padding: 0.625rem 3.75rem;
+  justify-content: center;
+  align-items: center;
+  gap: 0.625rem;
+  border-radius: 1.5625rem;
+  background: #0f0f0f;
+  align-self: flex-start;
+  margin-top: 1.31rem;
+  color: #fcfcfc;
+  font-family: Montserrat;
+  font-size: 1.125rem;
+  font-weight: 500;
+}
+
+.navbar_right img {
+  width: 3.75rem;
+  height: 3.75rem;
+  -webkit-user-select: none;
+  /* Safari */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* IE10+/Edge */
+  user-select: none;
+  /* Standard syntax */
+  pointer-events: none;
+}
+
+.greeting {
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 600;
+  -webkit-user-select: none;
+  /* Safari */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* IE10+/Edge */
+  user-select: none;
+  /* Standard syntax */
+
+}
